@@ -1,4 +1,4 @@
-package codewars;
+package Codewars.Java;
 
 import Utils.Print;
 
